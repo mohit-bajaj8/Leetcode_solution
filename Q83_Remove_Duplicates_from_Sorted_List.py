@@ -18,6 +18,3 @@ class Solution(object):
             else:
                 temp = temp.next
         return head
-
-
-
